@@ -26,10 +26,9 @@ Programmation orientée objet en Java : réutilisation, abstraction, héritage.
 │   ├── CancelFlightDialog.java  # Boîte pour annuler un vol
 │   ├── NotifyBoardingDialog.java# Boîte pour notifier l’embarquement
 │   ├── RemoveFlightDialog.java  # Boîte pour supprimer un vol
-│   ├── ScreenDialog.java        # Classe de base pour l’affichage des écrans (déjà implémentée)
-│
+│   ├── ScreenDialog.java        # Classe de base pour l’affichage des écrans 
 ├── screens/
-│   ├── TerminalScreen.java      # Observateur graphique du terminal (déjà implémenté)
+│   ├── TerminalScreen.java      # Observateur graphique du terminal
 │   ├── AirportScreen.java       # Observateur graphique de l’aéroport
 │   └── GateScreen.java          # Observateur graphique des portes
 │
